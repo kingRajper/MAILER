@@ -1,14 +1,14 @@
 MAILER Agent – Email Classification Assistant
 
 Overview:
-- The MAILER Agent is an intelligent assistant that processes emails by classifying them as spam or legitimate.
+- The MAILER *(Mail Analysis, Identification, and Legitimate Email Responder)* Agent is an intelligent assistant that processes emails by classifying them as spam or legitimate.
 - For legitimate emails, it detects the intent (e.g., inquiry, complaint, request) and generates a professional draft reply.
-- Emails and their processing results are stored in a local log file for later reference.
+- Emails and processing results are stored in a local log file for later reference.
 - A Streamlit-based GUI is provided to interact with the system.
 
 Features:
 - Classifies emails as spam or legitimate using an LLM.
-- Identifies intent of legitimate emails (inquiry, complaint, etc.).
+- Identifies the intent of legitimate emails (inquiry, complaint, etc.).
 - Generates draft replies for legitimate emails.
 - Explains the reason for spam classification.
 - Stores all email interactions in a local JSON log.
