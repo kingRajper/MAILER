@@ -59,5 +59,5 @@ Requirements:
 - dotenv
 
 Contact:
-- Developer: [Your Name]
-- Description: This system was developed for automating intelligent email response handling using LLMs.
+- Developer: *Iqrar Ali*
+- Description: This system was developed to automate intelligent email response handling using LLMs.
